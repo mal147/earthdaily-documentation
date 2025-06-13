@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/835763ed-be8f-4b92-bf08-b221610803ab)---
+---
 title: Automatic Boundary
 description: This section wil explain how to access field borders using a longitude and a latitude as the input. 
 # icon: fontawesome/question
