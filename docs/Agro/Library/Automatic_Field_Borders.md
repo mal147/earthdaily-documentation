@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/835763ed-be8f-4b92-bf08-b221610803ab)---
 title: Automatic Boundary
 description: This section wil explain how to access field borders using a longitude and a latitude as the input. 
 # icon: fontawesome/question
@@ -9,12 +9,14 @@ status: new
 
 ## Description
 
-This analytic provides automatic field borders for a point (longitude and latitude coordinates).
-This feature is available through API and through the GeosysApp.
+This analytic automatically generates field boundaries based on point coordinates (longitude and latitude). 
+The feature is accessible via both the API and the GeosysApp.
+Postman collection is available.
+Your account requires specific permissions to access this API. Please contact us to request access.
 
 ## Baseline data
 
-Sentinel-2 super-resolution images at 1m resolution are used to create these fields borders. 
+It leverages super-resolution Sentinel-2 imagery at 1-meter resolution to delineate field borders with high precision.
 
 ## API 
 
