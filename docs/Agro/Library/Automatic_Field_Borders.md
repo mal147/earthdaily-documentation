@@ -22,8 +22,8 @@ Sentinel-2 super-resolution images at 1m resolution are used to create these fie
 
 ### GET URL examples
 
-url = "https://api.geosys-na.net/field-borders/v1/AutomaticBoundary?location={longitude}, {latitude}&simplified_geom=true"
-url = "https://api.geosys-na.net/field-borders/v1/AutomaticBoundary?location=-54.889741119522725, -15.457580011321795&simplified_geom=true"
+- url = f"https://api.geosys-na.net/field-borders/v1/AutomaticBoundary?location={longitude},{latitude}&simplified_geom=true"
+- url = "https://api.geosys-na.net/field-borders/v1/AutomaticBoundary?location=-54.889741119522725,-15.457580011321795&simplified_geom=true"
 
 ## Performance and accuracy
 
